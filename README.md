@@ -1,16 +1,18 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div id="header" align="center" objectFit="cover">
+  <img src="giphy.webp" width="100%" height="150px"/>
+</div>
 <h1 align="center">Hi there, I'm <a href="https://github.com/azam2802">Azam</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🎓Student of the "American Institute of Tecnologies" and Junior Frontend developer.</h3>
 <div id="badges" align="center" style="text-decoration: none">
-    <a href="https://www.linkedin.com/in/tochka2802" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://www.linkedin.com/in/tochka2802">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/tochka_28" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/tochka_28">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto" alt="Telegram Badge"/>
   </a>
-  <a href="https://wa.me/+996552531101" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp  Badge"/>
+  <a href="https://wa.me/+996552531101">
+    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" alt="whatsapp  Badge"/>
   </a>
 </div>
 <br>
