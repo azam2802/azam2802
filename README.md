@@ -5,16 +5,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🎓Student of the "American Institute of Tecnologies" and Junior Frontend developer.</h3>
 <div id="badges" align="center" style="text-decoration: none">
-   <a href="https://www.linkedin.com/in/tochka2802">
+   <a href="https://www.linkedin.com/in/tochka2802" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/tochka_28">
+  <a href="https://t.me/tochka_28" target="__blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto" alt="Telegram Badge"/>
   </a>
-  <a href="https://azam-portfolio-site.vercel.app">
+  <a href="https://azam-portfolio-site.vercel.app" target="__blank">
     <img src="https://img.shields.io/badge/My Portfolio Website-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto" alt="vite Badge"/>
   </a>
-  <a href="https://wa.me/+996552531101">
+  <a href="https://wa.me/+996552531101"target="__blank">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" alt="whatsapp  Badge"/>
   </a>
 </div>
