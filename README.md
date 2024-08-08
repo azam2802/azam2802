@@ -11,6 +11,9 @@
   <a href="https://t.me/tochka_28">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto" alt="Telegram Badge"/>
   </a>
+  <a href="https://azam-portfolio-site.vercel.app">
+    <img src="https://img.shields.io/badge/My Portfolio Website-646CFF?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto" alt="vite Badge"/>
+  </a>
   <a href="https://wa.me/+996552531101">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" alt="whatsapp  Badge"/>
   </a>
