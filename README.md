@@ -55,4 +55,5 @@
 
 ## 👀My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azam2802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=azam2802&show_icons=true&theme=radical)](https://github.com/azam2802)
+![azam2802's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azam2802&theme=radical&show_icons=true&hide_border=true&layout=compact) <br>
+![azam2802's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azam2802&theme=radical&hide_border=true) [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=azam2802&show_icons=true&theme=radical&hide_border=true)](https://github.com/azam2802)
