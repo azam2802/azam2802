@@ -28,7 +28,6 @@
 <ul>
   <li>👨‍💻Love to explore new tecnologies</li>
   <li>😉Love to work with the team and create great projects</li>
-  <li>🔥Currently looking for a job.</li>
 </ul>
 <hr>
 
