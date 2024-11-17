@@ -17,6 +17,7 @@
   <a href="https://wa.me/+996552531101"target="__blank">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto" alt="whatsapp  Badge"/>
   </a>
+
 </div>
 <br>
 <hr>
@@ -48,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Git" **alt="Git" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Git" **alt="Git" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="50" height="50"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="Cpp" **alt="Cpp" width="50" height="50"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="50" height="50" />
+          
+          
 </div>
 <br>
 
