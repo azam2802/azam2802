@@ -2,7 +2,7 @@
   <img src="giphy.webp" width="100%" height="150px"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://github.com/azam2802">Azam</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="40"/></h1>
 <h3 align="center">🎓Student of the "American Institute of Tecnologies" and Junior Frontend developer.</h3>
 <div id="badges" align="center" style="text-decoration: none">
    <a href="https://www.linkedin.com/in/tochka2802" target="__blank">
