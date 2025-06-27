@@ -72,6 +72,6 @@
 ---
 
 ## 👀My Stats:
-
+[![eplus.dev badge](https://user-badge.eplus.dev/kyrgyzstan_public/azam2802.svg)](https://user-badge.eplus.dev/kyrgyzstan_public/azam2802) <br>
 ![azam2802's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azam2802&theme=radical&show_icons=true&hide_border=true&layout=compact) <br>
 ![azam2802's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azam2802&theme=radical&hide_border=true) [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=azam2802&show_icons=true&theme=radical&hide_border=true)](https://github.com/azam2802)
